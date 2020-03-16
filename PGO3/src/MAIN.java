@@ -15,7 +15,7 @@ public class MAIN {
 
         w.setPacjent(p1);
 
-        Wpis w1=new Wpis("jan kowalski", "opis", new Date());
+        Wpis w1=new Wpis("jan kowal", "opis", new Date());
         p1.dodajWpisdoKsiazeczki(w1);
 
 
